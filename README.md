@@ -8,8 +8,8 @@
 
 
 [<img src="https://cdn.iconscout.com/icon/free/png-256/python-3521655-2945099.png" alt="python" width="100">](https://docs.python.org/3/library/index.html)
-[<img src="https://cdn.iconscout.com/icon/free/png-64/react-1543566-1306069.png" alt="React" width="100">](https://reactjs.org/)
-[<img src="https://cdn.iconscout.com/icon/free/png-64/java-script-1521495-1288237.png" alt="JS" width="100">](https://www.javascript.com/)
+[<img src="https://cdn.iconscout.com/icon/free/png-64/react-226053.png" alt="React" width="100">](https://reactjs.org/)
+[<img src="https://cdn.iconscout.com/icon/free/png-64/javascript-2752148-2284965.png" alt="JS" width="100">](https://www.javascript.com/)
 [<img src="https://cdn.iconscout.com/icon/free/png-64/c-4-226082.png" alt="C++" width="100">](https://docs.microsoft.com/en-us/cpp/?view=msvc-170)
 
 
