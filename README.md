@@ -20,7 +20,7 @@
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MoncefKa&theme=gotham&show_icons=true&count_private=true&hide_title=true&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MoncefKa&layout=default&theme=gotham&hide=html&hide_border=true&card_width=330)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MoncefKa)](https://github.com/MoncefKa/github-readme-stats)
 
 ### 🍸 Frameworks and Libraries
 
