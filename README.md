@@ -3,4 +3,4 @@
   ### I'm a CS Student 
 
 ## :tada: - Progamming Languages Knowledge
-  <img href="https://www.downloadclipart.net/large/python-png-file.png" alt="python"/>
+  <img href="https://icon-library.com/images/python-icon/python-icon-27.jpg" alt="python"/>
