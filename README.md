@@ -3,4 +3,15 @@
   ### I'm a CS Student 
 
 ## :tada: - Progamming Languages Knowledge
-  <img href="https://icon-library.com/images/python-icon/python-icon-27.jpg" alt="python"/>
+  <div class="python">
+    ### Python
+  </div>
+  
+  <style> 
+    .python{
+    width:50px,
+    height:50px,
+    background-color:#F8CB2E
+  }
+  
+  </style>
