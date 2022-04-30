@@ -7,12 +7,14 @@
 
 
 
+# 🌐 Languages 
+
 [<img src="https://cdn.iconscout.com/icon/free/png-256/python-3521655-2945099.png" alt="python" width="100">](https://docs.python.org/3/library/index.html)
 [<img src="https://cdn.iconscout.com/icon/free/png-64/react-226053.png" alt="React" width="100">](https://reactjs.org/)
 [<img src="https://cdn.iconscout.com/icon/free/png-64/javascript-2752148-2284965.png" alt="JS" width="100">](https://www.javascript.com/)
 [<img src="https://cdn.iconscout.com/icon/free/png-64/c-4-226082.png" alt="C++" width="100">](https://docs.microsoft.com/en-us/cpp/?view=msvc-170)
 
-
+# 🤙 Contacts
 
 [<img src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" alt="Gmail" width="65">](mailto:kanjeki3@gmail.com)
 [<img src="https://cdn.iconscout.com/icon/free/png-256/stackoverflow-2752065-2284882.png" alt="stackoverflow" width="50">](https://stackoverflow.com/users/12771587/klaiden-x)
