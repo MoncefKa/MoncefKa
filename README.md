@@ -1,5 +1,5 @@
 
-[<img align='right' src="https://i.pinimg.com/originals/d7/d8/db/d7d8dbf3811c797e5d2cc364743ae3a7.gif" width="550" alt="giphy">]
+[<img align='right' src="https://i.pinimg.com/originals/d7/d8/db/d7d8dbf3811c797e5d2cc364743ae3a7.gif" width="550" border-radius="50%" alt="giphy">]
 
 
 
