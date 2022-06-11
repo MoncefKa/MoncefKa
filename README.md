@@ -1,5 +1,5 @@
 ### Hello There 
-## It Is I Moncef Karmaoui.
+## It Is I Moncef Karmaoui I am A Computer Engineering Student And Researcher.
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/MoncefKa)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/moncef-karmaoui/)
@@ -12,8 +12,9 @@
 
 
 #### 🌱 Things I am currently working on: 
-- Finish my Computer Engineering Degree 
-- My Genetics Research
+- Finishing my Computer Engineering Degree 
+- My Leukemia Research
+- Treating Genetics Diseases With AI Research.
 - My Self.
 
 #### :muscle: Things I am challenging myself with:
@@ -39,5 +40,5 @@
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 </p>
 
-##☮️
-Peace Out.
+## ☮️ Peace Out.
+
