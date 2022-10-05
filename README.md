@@ -14,13 +14,12 @@
 #### 🌱 Things I am currently working on: 
 - Finishing my Computer Engineering Degree 
 - My Leukemia Research
-- Treating Genetics Diseases With AI Research.
-- My Self.
+- Treating Genetics Diseases With AI.
+- Building Machine Learning / Deep Learning Models.
 
 #### :muscle: Things I am challenging myself with:
 - Coding at least 4 hours a day
-- Exercising 4 days a week
-- Reading 60 Page A Day
+- Writing The cleanest code possible
 
 #### :computer: Programming languages and tools: 
 <p>
