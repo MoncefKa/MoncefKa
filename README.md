@@ -31,6 +31,7 @@
 <p align="center">
   <i>Let's Collaborate</i>
   <p align="center">    
-    <a href="www.linkedin.com/in/moncefkarmaoui/" alt="Linkedin"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/174857.png" height="30" width="30"></a>
+    <a href="www.linkedin.com/in/moncefkarmaoui" alt="Linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" width="30"></a>
+    <a href="https://www.kaggle.com/klaidenx" alt="Kaggle"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" height="30" width="30"></a>
 
 ⭐️ From [Moncef-Karmaoui](https://github.com/MoncefKa)
