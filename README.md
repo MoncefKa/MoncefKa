@@ -1,40 +1,36 @@
-### Hello There 
-## I am A CS Student And a Researcher.
+### <h2>Greetings ✋🏻, I'm Moncef!
+  </br>
 
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/MoncefKa)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/moncef-karmaoui/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:kanjeki3@gmail.com)
+<img align="left"  src="https://media0.giphy.com/media/SVCSsoKU5v6ZJLk07n/giphy.gif?cid=ecf05e474wtmo11vrbghb8hv3tiblwzfvftekxjadpxyzsqz&rid=giphy.gif&ct=g" alt="Black Hole" width="600" height="150"/> &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;
+<img align="" src="https://media0.giphy.com/media/LQzOvvk8mcrwcrUjAP/giphy.gif?cid=ecf05e474gjvtthquyj6sxnzi8pu9qatmvt0bbvj8r3siegk&rid=giphy.gif&ct=g" width="200" height="200"/>
+</br></br></br>
+### Here are some Things About Me:</br>
+- 🔭 I'm Into **Science** And **AI**
+- 📘 I’m currently learning **Diffusion**
+- 👨‍💼 I’m looking to collaborate on: **Developing new and intriguing open-source projects, with the community, for the community**
+- ⚡ Fun fact: **The Oldest BlackHole In The Universe Can Fit 1.6 Billion Suns At Its Heart And There Are BlackHole In The Size Of A Small Ball**
+
+# *I am willing to collaborate as a team player building better code.*
 
 
+### Some Little Things I Work With: </br>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
+
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+</br></br></br></br>
 
 
-<img align="right" alt="img" src="https://cdnb.artstation.com/p/assets/images/images/042/067/037/original/olena-shmahalo-brain-1k.gif?1633480677" width="50%" height="auto" />
+<p align="center">
+  <i>Let's Collaborate</i>
+  <p align="center">    
+    <a href="www.linkedin.com/in/moncefkarmaoui/" alt="Linkedin"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/174857.png" height="30" width="30"></a>
 
-
-#### 🌱 Things I am currently working on: 
-- Finishing my Computer Engineering Degree 
-- My Leukemia Research
-- Treating Genetics Diseases With AI.
-- Building Machine Learning / Deep Learning Models.
-
-#### :muscle: Things I am challenging myself with:
-- Coding at least 4 hours a day
-- Writing The cleanest code possible
-
-#### :computer: Programming languages and tools: 
-<p>
-	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=MoncefKa&show_icons=true&hide_border=true" />
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-<br />
-
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
-<br />
-<code><img width="10%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/1200px-Pandas_mark.svg.png"></code>
-<code><img width="10%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png"></code>
-<code><img width="10%" src="https://miro.medium.com/max/400/1*A1sjBfEsqVhllKqtvPB1_Q.png"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-</p>
-
-## ☮️ Peace Out.
-
+⭐️ From [Moncef-Karmaoui](https://github.com/MoncefKa)
