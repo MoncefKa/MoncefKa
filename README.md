@@ -6,7 +6,7 @@
 </br></br></br>
 ### Here are some Things About Me:</br>
 - 🔭 I'm Into **Science** And **AI**
-- 📘 I’m currently learning **Lots Of Stuff  **
+- 📘 I’m currently learning **Lots Of Stuff**
 - 👨‍💼 I’m looking to collaborate on: **Developing new and intriguing open-source projects, with the community, for the community**
 - ⚡ Fun fact: **The Oldest BlackHole In The Universe Can Fit 1.6 Billion Suns At Its Heart And There Are BlackHole In The Size Of A Small Ball**
 
